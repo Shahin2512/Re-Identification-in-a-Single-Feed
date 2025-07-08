@@ -34,8 +34,6 @@ Re-Identification in a Single Feed/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repo
-
 ```bash
 git clone <your-repo-url>
 cd Re-Identification in a Single Feed
